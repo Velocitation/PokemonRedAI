@@ -8,5 +8,5 @@ raw_documentation
 *.pem
 _autoplay.mp4
 session_*
-.env
+.venv
 PokemonRed.gb.state
